@@ -5,8 +5,9 @@ STEP BY STEP INSTALL PLUGIN easyUML NEATBEANS :
 2) Pilih Plugins </BR>
 3) Pilih Available PLugin </BR>
 4) Search easy , Pilih List easyUML </BR>
-5)  Install , Continue , Restart Now </BR>
-6) Finish </BR>
+5) Downloaded --> Pilih Add Plugins --> pilih file ctrl tahan 
+6)  Install , Continue , Restart Now </BR>
+7) Finish </BR>
 
 CREATE DIAGRAM UML </BR>
 1) UML -> UML Diagram Project </BR>
@@ -18,3 +19,4 @@ CREATE DIAGRAM UML </BR>
 7) Klik kanan export as image --> current view </BR>
 8) Lalu pilih format png Rename </BR>
 9) Save </BR>
+
