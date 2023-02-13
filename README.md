@@ -6,9 +6,9 @@
 3) Pilih Available PLugin </BR>
 4) Search easy , Pilih List easyUML (4O4 NOT FOUND) </BR>
 5) Downloaded --> Pilih Add Plugins --> pilih file ctrl tahan 
-![1 install](https://user-images.githubusercontent.com/44969167/218406382-ece95188-2e0d-451d-8164-ca830b861346.JPG)
-![2 plugin](https://user-images.githubusercontent.com/44969167/218406438-8e7b7dc9-371e-4418-8930-e0209d1827eb.JPG)
-![3 next](https://user-images.githubusercontent.com/44969167/218406464-fb6d4cc5-5007-4102-aa54-8011584134ba.JPG)
+![1 install](https://user-images.githubusercontent.com/44969167/218406382-ece95188-2e0d-451d-8164-ca830b861346.JPG) <BR>
+![2 plugin](https://user-images.githubusercontent.com/44969167/218406438-8e7b7dc9-371e-4418-8930-e0209d1827eb.JPG) <BR>
+![3 next](https://user-images.githubusercontent.com/44969167/218406464-fb6d4cc5-5007-4102-aa54-8011584134ba.JPG) <BR>
  6)  Install , Continue , Restart Now </BR>
 ![4 accecpt](https://user-images.githubusercontent.com/44969167/218406487-2dffcb4b-bb94-4fea-96fd-695370c7e48f.JPG)
 7) Finish </BR>
